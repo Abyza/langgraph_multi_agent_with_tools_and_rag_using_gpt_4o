@@ -1,0 +1,31 @@
+{
+    "2023": {
+      "January": {"Food": 8000, "Transpo": 2500, "Daily": 1500},
+      "February": {"Food": 7500, "Transpo": 2300, "Daily": 1400},
+      "March": {"Food": 8500, "Transpo": 2600, "Daily": 1600},
+      "April": {"Food": 8000, "Transpo": 2400, "Daily": 1500},
+      "May": {"Food": 7800, "Transpo": 2500, "Daily": 1450},
+      "June": {"Food": 8200, "Transpo": 2600, "Daily": 1500},
+      "July": {"Food": 8500, "Transpo": 2700, "Daily": 1550},
+      "August": {"Food": 8700, "Transpo": 2800, "Daily": 1600},
+      "September": {"Food": 8100, "Transpo": 2400, "Daily": 1500},
+      "October": {"Food": 8300, "Transpo": 2500, "Daily": 1550},
+      "November": {"Food": 8600, "Transpo": 2600, "Daily": 1600},
+      "December": {"Food": 9000, "Transpo": 3000, "Daily": 2000}
+    },
+    "2024": {
+      "January": {"Food": 8500, "Transpo": 2600, "Daily": 1700},
+      "February": {"Food": 8000, "Transpo": 2500, "Daily": 1600},
+      "March": {"Food": 8700, "Transpo": 2700, "Daily": 1750},
+      "April": {"Food": 8500, "Transpo": 2600, "Daily": 1700},
+      "May": {"Food": 8400, "Transpo": 2650, "Daily": 1650},
+      "June": {"Food": 8600, "Transpo": 2700, "Daily": 1700},
+      "July": {"Food": 8900, "Transpo": 2800, "Daily": 1750},
+      "August": {"Food": 9200, "Transpo": 2900, "Daily": 1800},
+      "September": {"Food": 8700, "Transpo": 2600, "Daily": 1700},
+      "October": {"Food": 8800, "Transpo": 2700, "Daily": 1750},
+      "November": {"Food": 9000, "Transpo": 2800, "Daily": 1800},
+      "December": {"Food": 9500, "Transpo": 3200, "Daily": 2200}
+    }
+  }
+  
